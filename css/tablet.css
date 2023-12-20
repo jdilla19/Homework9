@@ -1,0 +1,16 @@
+@media (max-width:655px){
+    /* header */
+    header{
+
+        padding:9px 14px;
+
+
+    .burger{
+            display: block;
+        }
+
+    }
+    nav li{
+        display: none;
+    }
+}

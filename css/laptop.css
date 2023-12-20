@@ -9,6 +9,22 @@ header{
 
 }
 
+.section2{
+    padding: 130px 93px;
+     
+}
+
+.hide1025{
+    display: none;
+}
+
+
+
+.card {
+    width: 410px;
+}
+
+
 
 }
 
@@ -22,6 +38,15 @@ header{
     .section1{
         padding: 115px 67px;
     
+    }
+
+
+    .section2{
+        padding: 80px 67px;
+    }
+
+    .card {
+        width: 340px;
     }
 
 }

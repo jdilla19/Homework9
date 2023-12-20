@@ -4,20 +4,23 @@
 
         padding:9px 14px;
 
+    }
+
 
     .burger{
             display: block;
-        }
-
     }
+
     nav li{
         display: none;
     }
+    
 
-
+    /* section1 */
     
     .section1{
         padding: 119px 14px;
+        }
 
         .section1_h2{
             font-size: 32px;
@@ -30,6 +33,35 @@
 
         }
 
-    } 
+
+        /* section2 */
+
+        .section2{
+            padding: 80px 67px;
+        }
+    
+        .card {
+            width: 340px;
+        }
+
+}
+
+
+
+@media (max-width:506px){
+
+    /* .section2{
+        padding: 48px 14px;
+    }
+
+    .card_container{
+        flex-direction:column;
+        row-gap: 20px;
+    }
+
+    .card{
+        width: 347px;
+    } */
+
 
 }

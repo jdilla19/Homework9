@@ -4,6 +4,12 @@ header{
     padding-inline: 92px;
 }
 
+.section1{
+    padding: 171px 92px;
+
+}
+
+
 }
 
 
@@ -13,4 +19,12 @@ header{
         padding-inline: 67px;
     }
 
+    .section1{
+        padding: 115px 67px;
+    
+    }
+
 }
+
+
+

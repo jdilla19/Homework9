@@ -1,4 +1,4 @@
-@media (max-width:377px){
+ @media (max-width:377px){
     /* header */
     header{
 
@@ -13,4 +13,23 @@
     nav li{
         display: none;
     }
-}
+
+
+    .section1{
+        padding: 119px 14px;
+
+        .section1_h2{
+            font-size: 32px;
+            line-height: 40px;
+        }
+
+        .section1_p{
+            font-size: 14px;
+            line-height: 22px;
+
+        }
+
+    }
+
+
+} 
